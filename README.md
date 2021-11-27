@@ -51,7 +51,7 @@ adding them to the collection: the source for this page is available on
 - [C64 Tiny Emu](https://floooh.github.io/tiny8bit/c64.html) - by Andre Weissflog ([source](https://github.com/floooh/chips-test))
 - [Kim1](http://www.robsayers.com/jskim1/) - emulation in JavaScript by Rob Sayers ([Source](https://github.com/rsayers/jskim1))
 - [SAE](http://scriptedamigaemulator.net) - Scripted Amiga Emulator ([Source](https://github.com/naTmeg/ScriptedAmigaEmulator))
-- [VIC-20 Emulator](https://www.mdawson.net/vic20chrome/vic20.php) - JavaScript VIC-20 emulator
+- [VIC-20 Emulator](https://www.mdawson.net/vic20chrome/vic20.php) - JavaScript VIC-20 emulator with tape support
 - [VICE.js](https://vice.janicek.co/c64/) - Versatile Commodore Emulator for JavaScript ([Source](https://github.com/rjanicek/vice.js))
 
 ## Data General
