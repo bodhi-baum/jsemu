@@ -21,6 +21,7 @@ adding them to the collection: the source for this page is available on
 
 - [CPCBox](https://web.archive.org/web/20130302051242/http://www.cpcbox.com/) - Amstrad CPC emulator in JavaScript (archive link)
 - [CPC Tiny Emu](https://floooh.github.io/tiny8bit/cpc.html) - by Andre Weissflog ([source](https://github.com/floooh/chips-test))
+- [CPC BASIC](https://benchmarko.github.io/CPCBasic/cpcbasic.html) Run CPC BASIC in Browser
 - Roland - An Amstrad CPC emulator written in JavaScript. ([Source](https://sourceforge.net/p/emuscriptoria/code/HEAD/tree/jcpc.js))
 
 ## Apple
