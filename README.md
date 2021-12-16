@@ -280,7 +280,6 @@ adding them to the collection: the source for this page is available on
 - [JSVecX](http://www.twitchasylum.com/jsvecx/) - JavaScript port of the VecX Vectrex emulator
 - [jupiler](http://jupiler.zxtres.com) - Jupiter Ace emulator written in JavaScript ([Source](https://sourceforge.net/p/emuscriptoria/code/HEAD/tree/jupiler.js))
 - [KM-Z80 web](http://hp.vector.co.jp/authors/VA016157/kmz80web10/kmz80web.html) emulator for Sharp MZ-80K, by Katsumi Morimatsu. GOTO $1200 to start KM-BASIC. ([More information](http://hp.vector.co.jp/authors/VA016157/kmz80web10/))
-- [laser500emu](https://nippur72.github.io/laser500emu/) emulator for Video Technology (VTech) Laser 350/500/700, by Antonino Porcino.
 - [Little Man Computer](http://matt.krutar.org/LMC4/) a minimal CPU for teaching - emulator by Matthew Krutar. ([Background](https://en.wikipedia.org/wiki/Little_man_computer))
 - [Little Man Computer](https://blog.paulhankin.net/lmc/lmc.html) a minimal CPU for teaching - emulator by Paul Hankin. ([Background](https://en.wikipedia.org/wiki/Little_man_computer))
 - [Little Man Computer](https://peterhigginson.co.uk/LMC/) a minimal CPU for teaching - emulator by Peter Higginson. ([Background](https://en.wikipedia.org/wiki/Little_man_computer))
