@@ -175,6 +175,7 @@ adding them to the collection: the source for this page is available on
 - [Intel 8080 CPU Emulator](https://www.tramm.li/i8080/) - Emulates a minimal Intel 8080 Microcomputer that runs CP/M
 - [JavaScript 8080 Emulator](https://bluishcoder.co.nz/js8080/) - 8080 arcade game emulator in JavaScript
 - [Mipsdis](http://blog.loadzero.com/demo/mipsdis/demo.html) - MIPS disassembler that runs in the browser
+- [or1k](https://s-macke.github.io/jor1k/demos/main.html?user=kl041vjABi&cpu=asm&n=1&relayURL=wss%3A%2F%2Frelay.widgetry.org%2F) - Open RISC 1000 Emulator
 - [RISC Relay Computer](https://www.enscope.nl/rrca/) - Relay based computer project with a 16 bit RISC CPU. Emulator includes an assembler and source for a calculator program. By RJH. See [website](http://www.enscope.nl/rrc).
 - [RISCVEMU](https://bellard.org/riscvemu/js/) - RISC-V emulator boots 64-bit Linux. By Fabrice Bellard.
 - [Simple 8-bit Assembler Simulator](https://schweigi.github.io/assembler-simulator/) - Provides a simplified assembler syntax (based on NASM) and is simulating a x86 like CPU ([Source](https://github.com/Schweigi/assembler-simulator))
