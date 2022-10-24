@@ -287,6 +287,7 @@ adding them to the collection: the source for this page is available on
 - [Little Man Computer](https://peterhigginson.co.uk/LMC/) a minimal CPU for teaching - emulator by Peter Higginson. ([Background](https://en.wikipedia.org/wiki/Little_man_computer))
 - [Machine in a machine](https://js1k.com/2010-first/details/455) - Turing Machine Implementation in 1k from the [JS1k competition](https://js1k.com/)
 - [Marmmodore-1K](https://js1k.com/2016-elemental/details/2415) - minimal 8-bit computer in 1k by Felipe Alfonso
+- [MSXPla](https://msxplay.com/) - experimental MSX soundplayer
 - [NanoWasp](http://nanowasp.org) - A MicroBee emulator
 - [Nascom 2 emulator](http://thorn.ws/jsnascom/jsnascom.html) by Tommy Thorn. (J to start Basic) ([Source](https://github.com/tommythorn/jsnascom))
 - [One Instruction Set Computer (OISC)](https://www.cs.drexel.edu/~bls96/oisc/OISC.html) by Peter Crampton, presented by Brian L. Stuart. ([Explanation](https://www.cs.drexel.edu/~bls96/oisc/))
