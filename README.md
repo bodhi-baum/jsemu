@@ -34,6 +34,7 @@ adding them to the collection: the source for this page is available on
 - [BasiliskII](https://github.com/jsdf/macemu) - An Emscripten Port of BasiliskII ([Demo 1](https://jamesfriend.com.au/projects/basiliskii/BasiliskII-worker.html), [Demo 2](http://macintosh-js-html.herokuapp.com/))
 - [MiniVMac-Em](https://github.com/yksoft1/minivmac-em) - An Emscripten Port of MiniVMac ([Demo](https://yksoft1.github.io/mvmacdemo.html))
 - [Yet Another Apple 2+ in JavaScript](http://www.skibo.net/6502/apple2/) - by Thomas Skibo
+- [Macintosh 8](https://github.com/felixrieseberg/macintosh.js) - A Macintosh 8 emulation
 
 ## Atari
 
