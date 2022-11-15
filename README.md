@@ -128,7 +128,11 @@ adding them to the collection: the source for this page is available on
 - [MC-10 Emulator](http://mc-10.com/) - Emulator for the TRS-80 MC-10 microcomputer
 - [TRS-80 Model III Emulator](http://trsjs.48k.ca/trs80.html) a JavaScript emulator for the TRS-80 Model III, by Peter Phillips
 - [JS Mocha](http://www.haplessgenius.com/mocha/) - The HTML5 CoCo 2 Emulator
-- [Xroar Online](https://www.6809.org.uk/xroar/online/) - Dragon 32 & 64 and various types of TRS-80 computers 
+- [Xroar Online](https://www.6809.org.uk/xroar/online/) - Dragon 32 & 64 and various types of TRS-80 computers
+
+## Texas Instruments
+
+- [TI99](js99er.net/) - JS99er
 
 ## VTech
 
