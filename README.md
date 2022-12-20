@@ -98,6 +98,9 @@ adding them to the collection: the source for this page is available on
 - [LC-80](https://floooh.github.io/tiny8bit/lc80.html) - single board U880-based trainer from the DDR (warning: auto-plays sound at boot), via emscripten. By Andre Weissflog ([source](https://github.com/floooh/chips-test))
 - [Z1013 Tiny Emu](https://floooh.github.io/tiny8bit/z1013.html) - by Andre Weissflog ([source](https://github.com/floooh/chips-test))
 - [KC87 Tiny Emu](https://floooh.github.io/tiny8bit/z9001.html?type=kc87) - by Andre Weissflog ([source](https://github.com/floooh/chips-test))
+## Sharp
+
+-[MZ 700](https://github.com/takamin/mz700-js) - MZ00 emulator by takamin 
 
 ## Sega
 
